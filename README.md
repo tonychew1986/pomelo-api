@@ -18,7 +18,7 @@ Available End points
 To test application:
 
 ```bash
-$ npm test
+$ npm run test-dev
 ```
 
 Install NPM modules on fresh deployment:
@@ -30,7 +30,7 @@ $ npm install
 To run in development mode:
 
 ```bash
-$ node index.js
+$ npm run start
 ```
 
 To run in production mode:
